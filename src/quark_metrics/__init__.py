@@ -1,6 +1,6 @@
 from quark.plugin_manager import factory
 
-from PLUGIN_NAME_FORMATTED.example_module import ExampleModule
+from quark_metrics.example_module import ExampleModule
 
 def register() -> None:
     """
